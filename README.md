@@ -38,7 +38,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * credit değeri hiçbir şekilde 0'dan küçük olamaz. 4'ten büyük olamaz.
  * [GET]/workintech/courses => tüm course listini dönmeli.
  * [GET]/workintech/courses/{id} => İlgili id deki course objesini dönmeli.
- * [POST]/workintech/courses => Bir adet course objesini courses listesine ekler. RequestBody üzerinden bir adet type değeri alır type değeri ```DataStructure``` ise dataStructure objesi üzerine ekleme yapar ve bu objeyi listeye ekler
+ * [POST]/workintech/courses => Bir adet course objesini courses listesine ekler.
  * [PUT]/workintech/courses/{id} => İlgili id deki course objesinin değerlerini yeni gelen data ile değiştirir.
  * [DELETE]/workintech/courses/{id} => İlgili id değerindeki course objesini listeden siler.
 
