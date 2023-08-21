@@ -16,7 +16,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * İçerisinde ```Spring Web``` dependency eklenmeli.
  * Maven dependency management sistemini kullanarak tüm dependencyleri install edin.
  * Uygulamanızı  ```9000``` portundan ayağa kaldırın.
- * Bir hayvanat bahçesi için rest api dizayn etmeniz istenmektedir.
+ * Bir öğrenci için rest api dizayn etmeniz istenmektedir.
 
 ### Amaç
  * Amacımız Alex isimli öğrencinin derslerini ve derslerden aldığı notları ekleyebileceğimiz bir rest api oluşturmak.
