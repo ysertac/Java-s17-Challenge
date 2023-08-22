@@ -24,7 +24,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Dependency Injection kurallarına uymalıyız.
  
  ### Görev 1
- * main metodunuzun olduğu paket altında ```controller```, ```entity```, ```exceptions```, ```mapping```, ```util``` isminde 5 adet daha paket oluşturunuz.
+ * main metodunuzun olduğu paket altında ```controller```, ```entity```, ```exceptions``` isminde 3 adet daha paket oluşturunuz.
  * Project Lombok'u dependency olarak uygulamanıza ekleyin.
  * ```model``` paketinin altına ```CourseCredit``` adında bir interface tanımlayınız. ```int getCredit()``` ve ```int getGpa()``` adında iki metod tanımlayınız.
  * ```model``` paketi altına ```Course``` sınıfını tanımlayınız. ```int credit, Grade grade``` isimli 2 fielda sahip olmalı. Course sınıfının tek bir constructor değeri olmalı. ```int credit``` değerini almalı ve set etmeli. 
