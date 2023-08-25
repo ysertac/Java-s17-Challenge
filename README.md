@@ -28,7 +28,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Project Lombok'u dependency olarak uygulamanıza ekleyin.
  * ```model``` paketinin altına ```CourseGpa``` adında bir interface tanımlayınız. ```int getGpa()``` adında bir metod tanımlayınız.
  *  ```CourseGpa``` interface kullananan 3 tane daha sınıf tanımlayınız.  ```LowCourseGpa```,  ```MediumCourseGpa```,  ```HighCourseGpa```
- *  ```LowCourseGpa``` sınıfı getGpa() metodu 3, ```MediumCourseGpa``` sınıfı için getGpa() metodu 5,  ```HighCourseGpa`` için getGpa() metodu 10 değerini return etmeli.
+ *  ```LowCourseGpa``` sınıfı getGpa() metodu 3, ```MediumCourseGpa``` sınıfı için getGpa() metodu 5,  ```HighCourseGpa``` için getGpa() metodu 10 değerini return etmeli.
  * ```model``` paketi altına ```Course``` sınıfını tanımlayınız. ```String name, int credit, Grade grade``` isimli 2 fielda sahip olmalı.
  * ```model``` paketi altına ```Grade``` sınıfını tanımlayınız. ```int coefficient, String note``` bu iki değişkenide set eden bir adet constructor tanımlayınız.
 
